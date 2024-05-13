@@ -1,7 +1,7 @@
 streamlit
 PyPDF2
 openai
-chromadb == 0.3.29
+chromadb
 tiktoken
 langchain
 typing-inspect==0.8.0
